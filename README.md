@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Adhyuth18
-- 👀 I’m interested in Python and C programming
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Game Designing and App Development
+- 🌱 I’m currently learning React
 - 📫 How to reach me ...
 
 <!---
